@@ -14,4 +14,4 @@ For example, if the input is (0, 0), (1,1), (3,5), (2,2), the output should be
 
 - Clone Repository
 - run `npm install`
-- run `npm dev` to build and run the program
+- run `npm run dev` to build and run the program
